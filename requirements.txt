@@ -16,6 +16,7 @@ djangorestframework==3.16.1
 emoji==2.15.0
 filelock==3.20.0
 fsspec==2025.10.0
+gunicorn==23.0.0
 h11==0.16.0
 idna==3.11
 Jinja2==3.1.6
